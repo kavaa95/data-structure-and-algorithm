@@ -2,7 +2,7 @@
 
 #Given an array of integers, find the sum of its elements.
 
-#For example arr=[1,2,3],1+2+3=6 so return 6.
+#For example ar=[1,2,3],1+2+3=6 so return 6.
 
 
 function simpleArraySum(ar) {
